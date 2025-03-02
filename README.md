@@ -1,2 +1,2 @@
 # MyHealthPal
-BioCodes 2025 submission - Andrew Gao, Caleb Guan
+BioCodes 2025 Submission - Andrew Gao and Caleb Guan
